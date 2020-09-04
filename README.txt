@@ -1,7 +1,0 @@
-Analyzing CIA Factbook Data with SQL
-by Nicholas Archambault
-
-
-The goal of this project is to explore basic techniques in SQL through analysis of the CIA Factbook, a compendium of data on every country in the world. 
-
-Expected results include an understanding, by rough metrics, of densely populated nations: those in with below average areas and above average population totals.
